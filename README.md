@@ -10,7 +10,7 @@ An optimized replication of the multi-model ensemble framework from the 2025 stu
 ## Summary Performance Benchmarks
 Final optimized models evaluated on the full 218-point data matrix to match the paper's structural replication layout[cite: 1, 3]:
 
-| Product Target | Model Architecture | Paper $R^2$ | Our Optimized $R^2$ | Paper MSE | Our Optimized MSE |
+| Product Target | Model Architecture | Paper R^2 | Our Optimized R^2 | Paper MSE | Our Optimized MSE |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **Bio-Oil** | XGBoost | 0.960 | **0.963** | 6.790 | **6.440** |
 | **Bio-Oil** | CatBoost | 0.930 | **0.944** | 12.280 | **9.649** |
