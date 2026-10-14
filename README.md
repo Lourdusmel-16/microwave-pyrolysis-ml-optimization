@@ -4,7 +4,7 @@ An optimized replication of the multi-model ensemble framework from the 2025 stu
 
 ## Key Optimization Wins
 * **CatBoost Clean Sweep:** Outperformed the original paper's baseline across **all three phases** (Oil, Char, Gas) simultaneously[cite: 2].
-* **Compute Cut in Half:** Achieved a superior Bio-Oil fit ($R^2$: 0.944 vs 0.930) while using only **100 trees instead of 200**[cite: 1, 2].
+* **Compute Cut in Half:** Achieved a superior Bio-Oil fit (R^2: 0.944 vs 0.930) while using only **100 trees instead of 200**[cite: 1, 2].
 * **Error Reduction:** Drastically lowered Mean Squared Error (MSE) metrics across CatBoost, XGBoost, and LightGBM models[cite: 2].
 
 ## Summary Performance Benchmarks
